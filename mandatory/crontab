@@ -1,0 +1,1 @@
+*/10 * * * * bash /root/scripts/sleep.sh && bash /root/scripts/monitoring.sh | wall
